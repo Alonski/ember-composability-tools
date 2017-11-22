@@ -1,5 +1,7 @@
 # ember-composability-tools
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Alonski/ember-composability-tools.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/miguelcobain/ember-composability-tools.svg)](https://travis-ci.org/miguelcobain/ember-composability-tools) [![Ember Observer Score](http://emberobserver.com/badges/ember-composability-tools.svg)](http://emberobserver.com/addons/ember-composability-tools) [![Slack Status](https://ember-community-slackin.herokuapp.com/badge.svg)](https://ember-community-slackin.herokuapp.com/)
 
 This addon intends to provide helpers for building a somewhat different kind of components, i.e components which primary goal isn't to render DOM.
